@@ -1,11 +1,13 @@
+<div align = "center">
+
 ### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Butter_potato%20GitHub%20Profile&fontSize=50&color=gradient&height=250&animation=twinkling)
 
 
-- 🌱 I’m currently learning JS, JAVA.
-- 💬 Ask me about
-- 📫 How to reach me : floria59@naver.com
+ 🌱 I’m currently learning JS, JAVA. <br>
+ 💬 Ask me about <br>
+ 📫 How to reach me : floria59@naver.com <br>
 
 <!-- //Java
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -30,6 +32,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floria59&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,50,100&height=140&section=footer)
+
   
 </div>
