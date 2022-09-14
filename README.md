@@ -20,8 +20,6 @@
 <!-- //aws
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=floria59&show_icons=true&theme=dracula)
-
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
@@ -30,6 +28,8 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floria59&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floria59&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,50,100&height=140&section=footer)
   
 </div>
