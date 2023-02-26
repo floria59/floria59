@@ -13,7 +13,7 @@
   
 
  
-<h2 align="center">☾⋆⁺₊⋆💙 i can do 💙⋆⁺₊⋆☾</h2>
+<h2 align="center">☾⋆⁺₊⋆💙 I can do 💙⋆⁺₊⋆☾</h2>
  
 <p align="center">
 
