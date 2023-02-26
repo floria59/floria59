@@ -1,7 +1,7 @@
 <div align = "center">
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Butter_potato%20GitHub%20Profile&fontSize=50&color=gradient&height=250&animation=twinkling)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffloria59%2Fhit-counter&count_bg=%2398F9BC&title_bg=%235FE1DE&icon=icloud.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffloria59%2Fhit-counter&count_bg=%238D908A&title_bg=%23CB92D9&icon=icloud.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3> Hi there 👋  </h3>
 
